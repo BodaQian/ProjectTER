@@ -1,0 +1,11 @@
+[console_scripts]
+decode_px4_fmu_out_vehicle_status = qbd_insight.msg_px4_fmu_out_vehicle_status:main
+keyboard_position = qbd_insight.keyboard_position:main
+keyboard_velocity = qbd_insight.keyboard_velocity:main
+move_position = qbd_insight.move_position:main
+move_velocity = qbd_insight.move_velocity:main
+multi_move_velocity = qbd_insight.multi_move_velocity:main
+octomap_dynamic = qbd_insight.octomap_dynamic:main
+offboard = qbd_insight.offboard:main
+track = qbd_insight.track:main
+yolo_node = qbd_insight.yolo_node:main
