@@ -13,7 +13,7 @@ L'architecture de ce projet est basée sur les standards officiels de **ROS2**. 
 Les scripts de lancement essentiels, qui orchestrent la simulation et les nœuds de calcul, se trouvent dans :
 `qbd-ros2/ros2/src/qbd_insight/launch`
 
-*   **Logic de Mission :** Ces fichiers `.launch.py` coordonnent l'intégration entre l'interface PX4, les capteurs (Lidar/Caméra) et les algorithmes de traitement.
+*   **Logic de Mission :** Ces fichiers `.py` coordonnent l'intégration entre l'interface PX4, les capteurs (Lidar/Caméra) et les algorithmes de traitement.
 
 ## 📚 Références et Sources
 La conception de ce projet s'appuie sur des standards industriels et des recherches académiques. 
