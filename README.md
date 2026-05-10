@@ -21,7 +21,7 @@ La conception de ce projet s'appuie sur des standards industriels et des recherc
 
 ## 🛠 Technologies Utilisées
 *   **Middleware :** ROS2 (Humble/Foxy)
-*   **Simulation :** Webots, FlightGear, PX4
+*   **Simulation :** Webots, FlightGear, PX4, MATLAB
 *   **Vision :** YOLOv8, OpenCV
 *   **Cartographie :** OctoMap
 *   **Communication :** Modélisation 5G
